@@ -7,3 +7,6 @@
 ## 参考文档  
 经典交易策略：https://www.myquant.cn/docs/python_strategyies/110    
 量化分析资料:  https://github.com/SuperCV/Book/tree/master/%E9%87%8F%E5%8C%96%E5%88%86%E6%9E%90   
+用 Python 玩微信： https://wxpy.readthedocs.io/zh/latest/  
+微信推送量化交易信息： https://www.bilibili.com/video/BV1Y44y1T7im?spm_id_from=333.337.search-card.all.click    
+如何用Python创建一个Telegram交易信号机器人： https://www.bilibili.com/s/video/BV1pS4y1g7Pj    
